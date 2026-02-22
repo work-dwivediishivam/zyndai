@@ -14,7 +14,7 @@ https://uniflow-pqmm.vercel.app
 Here are access logins to 2 users with different permission, refer to the demo video to test it out.
 User 1 ->
 ```bash
-User - tushar21211@iiitd.ac.in
+User - sde.tusharchandra@gmail.com
 Password - asdf1234
 ```
 User 2 ->

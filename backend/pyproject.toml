@@ -1,0 +1,26 @@
+[project]
+name = "uniflow-backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.2"
+dependencies = [
+    "fastapi>=0.124.4",
+    "pyjwt>=2.10.1",
+    "python-dotenv>=1.2.1",
+    "python-multipart>=0.0.20",
+    "uvicorn>=0.38.0",
+    "google-generativeai>=0.8.3",
+    "pypdf2>=3.0.1",
+    "python-docx>=1.1.2",
+    "openpyxl>=3.1.5",
+    "pillow>=11.0.0",
+    "tiktoken>=0.8.0",
+    "sqlalchemy>=2.0.0",
+    "psycopg2-binary>=2.9.9",
+    "resend>=2.19.0",
+    "openai>=2.11.0",
+]
+
+
+
